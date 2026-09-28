@@ -1,0 +1,23 @@
+why bother with staging area
+how to unadd
+
+git add
+git commit -m <message>
+git push
+
+git branch
+	git branch: shows existing branches
+	git branch <branch name>: create new branch
+	git switch <branch name>: switch to branch
+git merge
+git checkout
+	git checkout HEAD~1: goes back to the previous commit
+
+
+1. Create a repository on the github website
+2. Clone the repo to your computer
+	a. Open cmd
+	b. Copy repo url on github
+	c. On cmd: git clone <url>
+	d. A folder should be created
+3. Save/paste your files into that folder
